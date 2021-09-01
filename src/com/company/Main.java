@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int weight = 4;
+        int weight = 4; //any value is good here
         int price = 0;
 
         if (weight <= 2) {
